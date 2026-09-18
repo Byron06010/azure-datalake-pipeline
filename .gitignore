@@ -1,9 +1,3 @@
-# Entorno virtual
 venv/
-__pycache__/
-
-# Credenciales o archivos locales de prueba
 .env
-*.csv
-*.xlsx
-*.parquet
+__pycache__/
